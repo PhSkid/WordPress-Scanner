@@ -13,3 +13,5 @@
 >pip install -r requirements.txt
 
 >python WordPress-Scanner.py
+
+
